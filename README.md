@@ -122,7 +122,7 @@ Employee personal and payroll details.
 ### Attendance Page
 Monthly attendance calendar and statistics.
 
-![Attendance](screenshots/attendance.png)
+![Attendance](screenshots/attendence.png)
 
 ---
 
